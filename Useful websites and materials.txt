@@ -6,7 +6,7 @@ informatics.mccme.ru
 
 Advanced:
 Втори стъпки в програмирането на C/C++
-Алгоритмми в графи
+Алгоритми в графи
 arena.maycamp.com
 math.bas.bg/infos
 Professional C++ by Marc Gregoire
