@@ -1,0 +1,13 @@
+Първи стъпки в програмирането  на C/C++
+cppreference.com
+stackoverflow.com
+cplusplus.com
+informatics.mccme.ru
+
+Advanced:
+Втори стъпки в програмирането на C/C++
+Алгоритмми в графи
+arena.maycamp.com
+math.bas.bg/infos
+Professional C++ by Marc Gregoire
+Програмиране =++ Алгоритми
