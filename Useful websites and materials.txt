@@ -3,6 +3,7 @@ cppreference.com
 stackoverflow.com
 cplusplus.com
 informatics.mccme.ru
+informatika.bg
 
 Advanced:
 Втори стъпки в програмирането на C/C++
