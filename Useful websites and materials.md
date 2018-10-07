@@ -1,9 +1,10 @@
-Първи стъпки в програмирането  на C/C++
+﻿Първи стъпки в програмирането  на C/C++
 informatika.bg
 cppreference.com
 cplusplus.com
 stackoverflow.com
 informatics.mccme.ru
+http://acm.timus.ru
 
 
 Advanced:
