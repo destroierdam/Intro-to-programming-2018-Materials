@@ -2,7 +2,7 @@
 
 Първи стъпки в програмирането  на C/C++
 
-informatika.bg
+http://www.informatika.bg
 
 cppreference.com
 
