@@ -24,7 +24,7 @@ http://acm.timus.ru
 
 http://arena.maycamp.com
 
-http://math.bas.bg/infos
+http://www.math.bas.bg/infos/
 
 Professional C++ by Marc Gregoire
 
