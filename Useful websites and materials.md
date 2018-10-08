@@ -4,6 +4,8 @@
 
 http://www.informatika.bg
 
+http://codeforces.com
+
 cppreference.com
 
 cplusplus.com
