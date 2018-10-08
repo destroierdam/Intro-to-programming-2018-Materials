@@ -6,15 +6,15 @@ http://www.informatika.bg
 
 http://codeforces.com
 
-cppreference.com
+http://cppreference.com
 
-cplusplus.com
+http://cplusplus.com
 
-stackoverflow.com
+http://stackoverflow.com
 
-informatics.mccme.ru
+http://informatics.mccme.ru
 
-acm.timus.ru
+http://acm.timus.ru
 
 # Advanced:
 
@@ -22,9 +22,9 @@ acm.timus.ru
 
 Алгоритми в графи
 
-arena.maycamp.com
+http://arena.maycamp.com
 
-math.bas.bg/infos
+http://math.bas.bg/infos
 
 Professional C++ by Marc Gregoire
 
