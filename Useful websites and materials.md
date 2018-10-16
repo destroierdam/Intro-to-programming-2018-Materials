@@ -29,3 +29,5 @@ http://www.math.bas.bg/infos/
 Professional C++ by Marc Gregoire
 
 Програмиране =++ Алгоритми
+
+Bit hacks: https://graphics.stanford.edu/~seander/bithacks.html
