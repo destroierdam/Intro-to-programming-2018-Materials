@@ -7,7 +7,7 @@ int main()
 	cin>>n;
 	
 	// с for
-	for(i=1;i*i<=n;i++)
+	for(i = 1;i*i <= n;i++)
 	{
 		cout<<i*i<<" ";
 	}
@@ -15,7 +15,7 @@ int main()
 	
 	// с while
 	i=1;
-	while(i*i<=n)
+	while(i*i <= n)
 	{
 		cout<<i*i<<" ";
 		i++;
@@ -30,7 +30,7 @@ int main()
 		cout<<i*i<<" ";
 		i++;
 	}
-	while(i*i<=n);
+	while(i*i <= n);
 	cout<<endl;
 	
 	

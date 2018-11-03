@@ -8,7 +8,7 @@ int main()
 	cin>>a>>n;
 	
 	// с for
-	for(i=0;i<=n;i++)
+	for(i = 0;i <= n;i++)
 	{
 		result += chlen;
 		chlen *= a;
