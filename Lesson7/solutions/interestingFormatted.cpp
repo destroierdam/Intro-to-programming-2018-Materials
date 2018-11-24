@@ -48,8 +48,3 @@ int main()
     
     return 0;
 }
-/*
-
-Transponirane na matrica <= 100 x 100
-
-*/
