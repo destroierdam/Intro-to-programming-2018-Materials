@@ -13,6 +13,6 @@ int main()
 					
 	bool ans = expensive || cheap;
 
-	cout<<ans<<endl;
+	cout<<(ans ? "YES" : "NO")<<endl;
 	return 0;
 }
