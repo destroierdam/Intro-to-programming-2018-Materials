@@ -5,7 +5,7 @@ int main()
 {
     // ТАКОВА НЕЩО НЯМА ДА ИМАТЕ
 
-    const int MAX_SIZE = 100;
+    const int MAX_SIZE = 1000;
     int weight[MAX_SIZE],value[MAX_SIZE],n,w;
     int T[MAX_SIZE][MAX_SIZE];
 
