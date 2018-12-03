@@ -1,5 +1,7 @@
 # Basic:
 
+https://visualgo.net - визуализация на алгоритми
+
 Първи стъпки в програмирането  на C/C++
 
 http://www.informatika.bg
