@@ -24,6 +24,14 @@ void swap(int * left, int * right)
     *right = temp;
 }
 
+/// swap, но с псевдоними
+void swap(int & left, int & right)
+{
+    int temp = left;
+    left = right;
+    right = temp;
+}
+
 /// overload-ната за double
 void swap(double * left, double * right)
 {
@@ -71,6 +79,42 @@ void multiplyMatrix(int matrix[][3], int sz, int mult)
             matrix[i][j] *= mult;
         }
     }
+}
+
+void bubbleSort(int * arr, int sz)
+{
+	for (int i = sz-2 ; i > 0; i--)
+	{
+		for (int j = 0; j <= i; j++)
+		{
+			if (arr[j + 1] < arr[j])
+			{
+				swap(arr[j + 1], arr[j]);
+			}
+		}
+	}
+}
+
+void selectionSort(int * arr, int sz)
+{
+	for (int traicho = 0; traicho < sz - 1; traicho++)
+	{
+		for (int j = traicho + 1; j < sz; j++)
+		{
+			if (arr[traicho] >=  arr[j])
+			{
+				swap(arr[traicho], arr[j]);
+			}
+		}
+	}
+}
+
+void testBubbleSort()
+{
+    const int sz = 5;
+	int arr[sz] = {5, 10, 11, 14, 6};
+	bubbleSort(arr, sz);
+	print(arr, sz);
 }
 
 int main()
