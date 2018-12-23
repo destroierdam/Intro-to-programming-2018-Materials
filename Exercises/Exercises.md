@@ -14,3 +14,6 @@ https://github.com/stranxter/lecture-notes/blob/master/homeworks/01_programming%
 
 ## Указатели
 https://github.com/stranxter/lecture-notes/tree/master/homeworks/01_programming%20101/2015/06%20pointers
+
+## Рекурсия
+https://github.com/stranxter/lecture-notes/blob/master/homeworks/01_programming%20101/2015/07%20recursion/recursion.pdf
